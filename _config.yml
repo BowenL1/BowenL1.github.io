@@ -87,8 +87,7 @@ author:
   bio              : "PhD student in Mechanical Engineering"
   location         : "Orlando,US"
   employer         :
-<<<<<<< HEAD
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qnwhb2cAAAAJ"
   email            : "bowenli1125@gmail.com"
 =======
