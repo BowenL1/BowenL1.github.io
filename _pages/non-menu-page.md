@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
+title: "Activities"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Showing some pictures about snowboarding and surfing later on.
 
 Heading 1
 ======
