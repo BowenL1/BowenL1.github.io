@@ -12,11 +12,11 @@ I am a Ph.D. student at [University of central florida](https://www.ucf.edu/), a
 My research interest lies in the mechanics of flexible and multifunctional structures and composite materials, focusing on structure instability, failure analysis and structure optimization.  
 
 # Recent News
-* Jul 03, 2022. A paper was accepted.
+* June 25, 2023. A paper was accepted by AIAA.
 
 
 # Education
-* <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
+* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/University_of_Central_Florida.png?raw=true"/> <br>
 <b>University of Central Florida (Orlando, US)</b> <br>
 Aug. 2021--Present<br>
 Ph.D. in Mechanical engineering<br>
@@ -43,13 +43,13 @@ Advisor: Prof. Holing Ye<br>
 
 
 # Work experence
-* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/Earthquake_Administration.jpg"/> <br>
+* <img width="105" height="75" src="https://raw.githubusercontent.com/Xiaoweiooo/bowenli.github.io/master/images/Earthquake_Administration.jpg"/> <br>
 <b>Institute of Geology, China Earthquake Administration (Beijing, China. Sep. 2020--Jul. 2021) </b> <br>
 <i>Junior Researcher</i>, Experimental platform designer <br>
 (1) High voltage switches case design<br>
 (2) FAULT-SLIP ANALYSIS base on FEA<br>
 
-* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/fdtgroup.png"/> <br>
+* <img width="75" height="30" src="https://raw.githubusercontent.com/Xiaoweiooo/bowenli.github.io/master/images/fdtgroup.png"/> <br>
 <b>Beijing Automation Technical Research Institute (Beijing, China) (Dec. 2015--Feb. 2015)</b> <br>
 <i>Mechanical Engineering Intern</i> <br>
 
