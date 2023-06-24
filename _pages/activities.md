@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /activities/
 title: "Activities"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
@@ -10,8 +10,3 @@ redirect_from:
 
 Showing some pictures about snowboarding and surfing later on.
 
-Heading 1
-======
-
-Heading 2
-======
