@@ -32,7 +32,7 @@ Master of Mechanics<br>
 GPA: 3.53/4.00 <br>
 <i>Honor</i>: Academic Excellent Award, Outstanding graduate awards; Outstanding graduation thesis
 
-<b>Beijing University of Technology (Beijing, China) </b> <br>
+* <b>Beijing University of Technology (Beijing, China) </b> <br>
 Sep. 2013--Jun. 2017<br>
 GPA: 3.52/4.00
 bachelor of Mechanical Engineering<br>
