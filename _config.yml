@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bowen / Haha"
+title                    : "Bowen / Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "TEST1"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Bowen Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student in Mechanical Engineering"
+  location         : "Orlando,US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qnwhb2cAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Bowen-Li-52"
   uri              :
   bitbucket        :
   codepen          :
