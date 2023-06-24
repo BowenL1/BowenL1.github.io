@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student at [University of central florida](https://www.ucf.edu/), advised by [Prof. Kawai Kwok](https://mae.ucf.edu/person/kawai-kwok/).
-
-* I received my master's and B.E. degree at Beijing University of Technology, advised by Prof. Hongling Ye.
-
+I am a Ph.D. student at [University of central florida](https://www.ucf.edu/), advised by [Prof. Kawai Kwok](https://mae.ucf.edu/person/kawai-kwok/). 
+My research interest lies in the mechanics of flexible and multifunctional structures and materials, focusing on shape reconfiguration, actuation and sensing, structural instability, and structure optimization.  
 
 # Recent News
 * Jul 03, 2022. A paper was accepted.
