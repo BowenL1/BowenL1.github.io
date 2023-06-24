@@ -16,7 +16,7 @@ My research interest lies in the mechanics of flexible and multifunctional struc
 
 
 # Education
-* <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
+* <img src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
 <b>University of Central Florida (Orlando, US)</b> <br>
 Aug. 2021--Present<br>
 Ph.D. in Mechanical engineering<br>
@@ -34,7 +34,7 @@ GPA: 3.53/4.00 <br>
 
 * <b>Beijing University of Technology (Beijing, China) </b> <br>
 Sep. 2013--Jun. 2017<br>
-GPA: 3.52/4.00
+GPA: 3.52/4.00<br>
 bachelor of Mechanical Engineering<br>
 Advisor: Prof. Holing Ye<br>
 
