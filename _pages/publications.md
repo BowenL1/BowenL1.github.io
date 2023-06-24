@@ -17,13 +17,3 @@ Holing Ye\*, <b>Bowen Li</b>\*, Xuesong Shi, Yang Zhang<br>
 Yang Zhang, Hongling Ye, <b>Bowen Li</b>\* <br>
 <i>Structural and Multidisciplinary Optimization, DOI: 10.1007/s00158-021-02890-7</i>
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://www.researchgate.net/profile/Bowen-Li-52/research}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
