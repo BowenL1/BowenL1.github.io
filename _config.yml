@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Bowen Li"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "TEST1"
+name                     : &name "Bowen"
+description              : &description "Never stop study"
 url                      : https://xiaoweiooo.github.io/bowenli.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -88,12 +88,9 @@ author:
   location         : "Orlando,US"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qnwhb2cAAAAJ"
   email            : "bowenli1125@gmail.com"
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qnwhb2cAAAAJ"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Bowen-Li-52"
+  researchgate     : "https://www.researchgate.net/profile/Bowen-Li-52"
   uri              :
   bitbucket        :
   codepen          :
