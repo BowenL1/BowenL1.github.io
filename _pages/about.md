@@ -18,7 +18,7 @@ redirect_from:
 
 
 # Education
-* <img width="75" height="75" src="https://jiahaoplus.github.io/images/University_of_Central_Florida.png"/> <br>
+* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/University_of_Central_Florida.png"/> <br>
 <b>University of Central Florida (Orlando, US)</b> <br>
 Aug. 2021--Present<br>
 Ph.D. in Mechanical engineering<br>
