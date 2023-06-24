@@ -50,5 +50,5 @@ Advisor: Prof. Holing Ye<br>
 
 * <img width="75" height="30" src="https://raw.githubusercontent.com/Xiaoweiooo/bowenli.github.io/master/images/fdtgroup.png"/> <br>
 <b>Beijing Automation Technical Research Institute (Beijing, China) (Dec. 2015--Feb. 2015)</b> <br>
-<i>Mechanical Engineering Intern</i> <br>
+<i>MTS test assistant</i> <br>
 
