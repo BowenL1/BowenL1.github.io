@@ -1,11 +1,9 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+layout: archive
+title: "activities"
+permalink: /activites/
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
+
 
 Showing some pictures about snowboarding and surfing later on.
