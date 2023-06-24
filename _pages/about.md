@@ -16,7 +16,7 @@ My research interest lies in the mechanics of flexible and multifunctional struc
 
 
 # Education
-* <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
+* <img src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
 <b>University of Central Florida (Orlando, US)</b> <br>
 Aug. 2021--Present<br>
 Ph.D. in Mechanical engineering<br>
