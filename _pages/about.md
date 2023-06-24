@@ -16,7 +16,7 @@ My research interest lies in the mechanics of flexible and multifunctional struc
 
 
 # Education
-* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/bjut.png"/> <br>
+* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/bjut1.png"/> <br>
 <b>University of Central Florida (Orlando, US)</b> <br>
 Aug. 2021--Present<br>
 Ph.D. in Mechanical engineering<br>
