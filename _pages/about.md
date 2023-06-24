@@ -27,11 +27,15 @@ Advisor: [Prof. Kawai Kwok](https://mae.ucf.edu/person/kawai-kwok/). <br>
 
 * <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/Beijing_University_of_Technology.png"/> <br>
 <b>Beijing University of Technology (Beijing, China) </b> <br>
-Sep. 2013--Jun. 2020<br>
+Sep. 2017--Jun. 2020<br>
 Master of Mechanics<br>
-GPA: 3.53/4.00, ranking 1/351 <br>
-bachelor of Mechanical Engineering<br>
+GPA: 3.53/4.00 <br>
 <i>Honor</i>: Academic Excellent Award, Outstanding graduate awards; Outstanding graduation thesis
+
+<b>Beijing University of Technology (Beijing, China) </b> <br>
+Sep. 2013--Jun. 2017<br>
+GPA: 3.52/4.00
+bachelor of Mechanical Engineering<br>
 Advisor: Prof. Holing Ye<br>
 
 
