@@ -16,7 +16,7 @@ My research interest lies in the mechanics of flexible and multifunctional struc
 
 
 # Education
-* <img src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
+* <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
 <b>University of Central Florida (Orlando, US)</b> <br>
 Aug. 2021--Present<br>
 Ph.D. in Mechanical engineering<br>
@@ -25,17 +25,20 @@ Advisor: [Prof. Kawai Kwok](https://mae.ucf.edu/person/kawai-kwok/). <br>
 <i>Teachaing Assistant</i>, Engineering Analysis-Dynamics. Advisor: [Prof. Sudeshna Pal](https://mae.ucf.edu/person/sudeshna-pal/).<br>
 
 
-* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/Beijing_University_of_Technology.png"/> <br>
+* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/Beijing_University_of_Technology.png?raw=true"/> <br>
 <b>Beijing University of Technology (Beijing, China) </b> <br>
 Sep. 2017--Jun. 2020<br>
 Master of Mechanics<br>
+Thesis: Mechanical behavior analysis and optimization design for deployable composite tube hinge<br>
 GPA: 3.53/4.00 <br>
+
 <i>Honor</i>: Academic Excellent Award, Outstanding graduate awards; Outstanding graduation thesis
 
 * <b>Beijing University of Technology (Beijing, China) </b> <br>
 Sep. 2013--Jun. 2017<br>
 GPA: 3.52/4.00<br>
 bachelor of Mechanical Engineering<br>
+Thesis:Quasi-Static analysis of mechanical attributes for metal Tape Spring Hinge<br>
 Advisor: Prof. Holing Ye<br>
 
 
