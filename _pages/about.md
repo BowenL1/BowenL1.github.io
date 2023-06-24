@@ -27,7 +27,7 @@ Advisor: [Prof. Kawai Kwok](https://mae.ucf.edu/person/kawai-kwok/). <br>
 <i>Teachaing Assistant</i>, Engineering Analysis-Dynamics. Advisor: [Prof. Sudeshna Pal](https://mae.ucf.edu/person/sudeshna-pal/).<br>
 
 
-* <img width="75" height="75" src="https://jiahaoplus.github.io/images/ETH.jpg"/> <br>
+* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/Beijing_University_of_Technology.png"/> <br>
 <b>Beijing University of Technology (Beijing, China) </b> <br>
 Sep. 2013--Jun. 2020<br>
 Master of Mechanics<br>
@@ -38,13 +38,13 @@ Advisor: Prof. Holing Ye<br>
 
 
 # Work experence
-* <img width="75" height="75" src="https://jiahaoplus.github.io/images/jhu_400x400.jpg"/> <br>
+* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/Earthquake_Administration.jpg"/> <br>
 <b>Institute of Geology, China Earthquake Administration (Beijing, China. Sep. 2020--Jul. 2021) </b> <br>
 <i>Junior Researcher</i>, Experimental platform designer <br>
 (1) High voltage switches case design<br>
 (2) FAULT-SLIP ANALYSIS base on FEA<br>
 
-* <img width="75" height="75" src="https://jiahaoplus.github.io/images/vmware.png"/> <br>
+* <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/fdtgroup.png"/> <br>
 <b>Beijing Automation Technical Research Institute (Beijing, China) (Dec. 2015--Feb. 2015)</b> <br>
 <i>Mechanical Engineering Intern</i> <br>
 
