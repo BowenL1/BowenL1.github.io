@@ -50,12 +50,12 @@ Advisor: Prof. Hongling Ye<br>
 (3)Coordinated & manufactured prototype for chlorite sample<br>
 (4)Designed & built a sensitive and rapid switch for high voltage<br>
 
-* 
+* #<img width="105" height="75" src="https://raw.githubusercontent.com/BowenL1/BowenL1.github.io/master/images/auto.jpg"/> <br>
 <b>Beijing Automation Technical Research Institute, Beijing, China, Dec. 2015--Feb. 2015</b> <br>
 (1)Collaborated designing a Damage Detection Sensor<br>
 (2)Assisted 3D modling and printing for sensor case<br>
 
-* 
+* #<img width="105" height="75" src="https://raw.githubusercontent.com/BowenL1/BowenL1.github.io/master/images/Satellite.png"/> <br>
 <b>Beijing Satellite Manufacturing Factory, Beijing, China, Sep. 2015 – Jan. 2016</b> <br>
 (1)Simulated fatigue life for tape spring based on principal stress<br>
 (2)Tape spring strain sensing and comparison with FEA<br>
