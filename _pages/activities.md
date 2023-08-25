@@ -8,5 +8,6 @@ redirect_from:
   - "/nmp.html"
 ---
 
+Please go to my Youtude channel if you enjoying Piano.
 Showing some pictures about snowboarding and surfing later on.
 
