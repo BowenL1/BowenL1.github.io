@@ -1,11 +1,11 @@
 ---
-permalink: /CV/
+permalink: 
 title: "CV"
 excerpt: "CV"
 author_profile: true
 redirect_from: 
-  - "/CV/"
-  - "/CV.html"
+  - "/cv/"
+  - "/cv.html"
 ---
 
 
