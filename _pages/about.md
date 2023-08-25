@@ -43,12 +43,18 @@ Advisor: Prof. Hongling Ye<br>
 
 # Work experence
 * <img width="105" height="75" src="https://raw.githubusercontent.com/Xiaoweiooo/bowenli.github.io/master/images/Earthquake_Administration.jpg"/> <br>
-<b>Institute of Geology, China Earthquake Administration (Beijing, China. Sep. 2020--Jul. 2021) </b> <br>
-<i>Junior Researcher</i>, Experimental platform designer <br>
-(1) High voltage switches case design<br>
-(2) FAULT-SLIP ANALYSIS base on FEA<br>
+<b>Institute of Geology, China Earthquake Administration, Beijing, China. Sep. 2020--Jul. 2021 </b> <br>
+<i>Junior Researcher</i>, Experiment designer <br>
+(1)Improved previous friction experiment apparatus<br>
+(2)Given a lecturer that cover the FEA using ABAQUS & OptiStruct<br>
+(3)Coordinated & manufactured prototype for chlorite sample<br>
+(4)Designed & built a sensitive and rapid switch for high voltage<br>
 
-* <img width="75" height="30" src="https://raw.githubusercontent.com/Xiaoweiooo/bowenli.github.io/master/images/fdtgroup.png"/> <br>
-<b>Beijing Automation Technical Research Institute (Beijing, China) (Dec. 2015--Feb. 2015)</b> <br>
-<i>MTS test assistant</i> <br>
 
+<b>Beijing Automation Technical Research Institute, Beijing, China, Dec. 2015--Feb. 2015</b> <br>
+(1)Collaborated designing a Damage Detection Sensor<br>
+(2)Assisted 3D modling and printing for sensor case<br>
+
+<b>Beijing Satellite Manufacturing Factory, Beijing, China, Sep. 2015 – Jan. 2016</b> <br>
+(1)Simulated fatigue life for tape spring based on principal stress<br>
+(2)Tape spring strain sensing and comparison with FEA<br>
