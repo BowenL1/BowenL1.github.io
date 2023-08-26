@@ -32,7 +32,7 @@ Advisor: Prof. Hongling Ye<br>
 
 <i>Honor</i>: Academic Excellent Award, Outstanding graduate awards; Outstanding graduation thesis
 
-* <b>Beijing University of Technology, Beijing, China, Sep. 2013--Jun. 2017<br>
+* <b>Beijing University of Technology, Beijing, China, Sep. 2013--Jun. 2017</b><br>
 bachelor of Mechanical Engineering, GPA: 3.52/4.00<br>
 Thesis:Quasi-Static analysis of mechanical attributes for metal Tape Spring Hinge<br>
 Advisor: Prof. Hongling Ye<br>
