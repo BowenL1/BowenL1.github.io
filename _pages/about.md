@@ -17,7 +17,7 @@ My research interest lies in the mechanics of flexible and multifunctional struc
 
 # Education
 * <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/University_of_Central_Florida.png?raw=true"/> <br>
-<b>University of Central Florida ,Orlando, US, Aug. 2021--Present<br><br>
+<b>University of Central Florida ,Orlando, US, Aug. 2021--Present</b><br>
 Ph.D. in Mechanical engineering<br>
 Advisor: [Prof. Kawai Kwok](https://mae.ucf.edu/person/kawai-kwok/). <br>
 <i>Research Assistant</i>, Instabiligy for Deployable propeller blades.<br>
@@ -25,7 +25,7 @@ Advisor: [Prof. Kawai Kwok](https://mae.ucf.edu/person/kawai-kwok/). <br>
 
 
 * <img width="75" height="75" src="https://github.com/Xiaoweiooo/bowenli.github.io/blob/master/images/Beijing_University_of_Technology.png?raw=true"/> <br>
-<b>Beijing University of Technology, Beijing, China, Sep. 2017--Jun. 2020<br><br>
+<b>Beijing University of Technology, Beijing, China, Sep. 2017--Jun. 2020</b><br>
 Master of Mechanics,GPA: 3.53/4.00<br>
 Thesis: Mechanical behavior analysis and optimization design for deployable composite tube hinge<br>
 Advisor: Prof. Hongling Ye<br>
