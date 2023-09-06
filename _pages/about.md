@@ -20,7 +20,7 @@ My research interest lies in the mechanics of flexible and multifunctional struc
 <b>University of Central Florida ,Orlando, US, Aug. 2021--Present</b><br>
 Ph.D. in Mechanical engineering<br>
 Advisor: [Prof. Kawai Kwok](https://mae.ucf.edu/person/kawai-kwok/). <br>
-<i>Research Assistant</i>, Instabiligy for Deployable propeller blades.<br>
+<i>Research Assistant</i>, Instability for Deployable propeller blades.<br>
 <i>Teachaing Assistant</i>, Engineering Analysis-Dynamics. Advisor: [Prof. Sudeshna Pal](https://mae.ucf.edu/person/sudeshna-pal/).<br>
 
 
